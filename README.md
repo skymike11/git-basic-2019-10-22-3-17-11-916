@@ -25,7 +25,7 @@ Other useful commands to see what is going on the git repository:
 - [ ] Open the repository on GitHub and make changes to `newfile.txt`
 - [ ] Pull the changes to your local repository
 - [ ] Create a new branch named "branch-1" and push to Github
-
+- [ ] Update newfile.txt and push 
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
